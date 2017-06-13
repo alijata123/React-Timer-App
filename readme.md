@@ -1,4 +1,5 @@
 React Timer Application!
+Deployed with Heroku http://fast-basin-29041.herokuapp.com/#/?_k=2my2tj
 
 To play around with this application into your local machine,
 
