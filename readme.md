@@ -6,7 +6,7 @@ To play around with this application into your local machine,
 2. cd React-Timer-App
 3. npm install
 4. npm start
-   -redirect into (http://localhost:3000/)
-5. webpack -w ( to views changes you will make, in real time into browser)
+5. redirect into (http://localhost:3000/)
+6. webpack -w ( to views changes you will make, in real time into browser)
 
 Enjoy the development.
